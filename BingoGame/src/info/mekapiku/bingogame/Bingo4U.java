@@ -43,6 +43,7 @@ public class Bingo4U {
 		}
         
 		EventQueue.invokeLater(new Runnable() {
+			@Override
 			public void run() {
                 try {
 					// ゲームの画面生成
