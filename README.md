@@ -6,8 +6,8 @@
 思い通りの番号が出たあとは，通常のビンゴゲームとして遊ぶことができます．
 
 ## 使い方
-1. [ここ](https://github.com/Mekapiku/BingoGame/releases)からjarファイルをダウンロードします．
-2. ダウンロードファイルと同じフォルダに"Bingo.txt"を下記の形式で作成します．
+1. [ここ](https://github.com/Mekapiku/BingoGame/releases)から`BingoGame.zip`をダウンロードします．
+2. ダウンロードファイルの中の`Bingo.txt`を下記の形式に合わせて編集します．
 ```
 1番目に出したい数字,2番目に出したい数字,3番目に出したい数字,...,N番目に出したい数字
 ```
